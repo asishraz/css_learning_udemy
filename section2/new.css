@@ -1,0 +1,28 @@
+body {
+    font-family: 'Pattaya', sans-serif;
+}
+
+#product-overview {
+    background: red;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Allan', cursive;
+
+}
+
+.section-title {
+    color: #0853f7;
+    font-family: inherit;
+}
+
+
+
+
+
+/* 
+* {
+    font-family: sans-serif;
+} */
