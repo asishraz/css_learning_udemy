@@ -1,0 +1,48 @@
+.box {
+
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+
+    border-top: 5px solid red;
+    border-right: 7px solid red;
+    border-bottom: 9px solid red;
+    border-left: 11px solid red;
+
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+
+    box-sizing: border-box;
+    height: 300px;
+    width: 48%;
+
+    
+    box-sizing: border-box;
+
+    display: inline-block;
+    margin: 0;
+
+}
+
+html,body {
+    height: 100%;
+}
+/* #first {
+    /* height: 100%; */
+    /* box-sizing: border-box; */
+    /* height: 300px;
+    width: 50%; */
+/* } */ 
+
+/* #first {
+    /* visibility: hidden; */
+    /* display: none; */
+
+/* } */ 
+
+div:last-of-type:hover {
+    border-color: green;
+}
