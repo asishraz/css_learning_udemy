@@ -1,0 +1,63 @@
+
+
+.packages-main {
+    background: rgb(183, 214, 183);
+    width: 70%;
+    border: 4px solid green;
+    margin: 15px;
+    padding: 20px;
+}
+
+.packages-main a {
+    text-decoration: none;
+}
+
+
+.package-heading {
+    color: black;
+
+}
+
+.package-subheading {
+    color: grey;
+    
+}
+
+.package-desc {
+    background: white;
+    width: 70%;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    /* text-align: center; */
+    color: black;
+    vertical-align: middle;
+    border: 2px solid green;
+
+}
+
+
+.premium-content {
+    background: green;
+}
+
+.premium-content .package-heading {
+    color: white;
+}
+
+.packages-main:hover {
+    border: 4px solid red;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+
+.clear-fix {
+    clear: both;
+    
+}
+
+.free-plan {
+    background: #cbee97;
+    float: right;
+    text-align: right;
+}
+
